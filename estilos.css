@@ -1,0 +1,112 @@
+#para1{
+    text-align: center;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0% 10% 10px;
+    height: 30px;
+    background-color:royalblue;
+    clear: both;
+}
+#parrafo2{
+    text-align: center;
+    color: green;
+    font-size: 21px;
+}
+#p1{
+    text-decoration: underline;
+    text-align: center;
+    color: black;
+}
+#p2{
+    text-emphasis: initial;
+    text-align: center;
+    color: white;
+    font-style: initial;
+}
+.center{
+    text-align: center;
+    color: rgb(0, 95, 75);
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+}
+.miestilo{
+    background-color: black;
+    font-size: 25px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    color: aliceblue;
+}
+.menu li{
+    list-style: none;
+    color: black;
+    display: inline;
+    background-color: burlywood;
+    margin: 0 90px;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+#encabezado{
+    color: black;
+    border-radius: 10px;
+    width: 80%;
+    margin: 10px 10%;
+    background-image: url(Img/bas.jpg);
+    padding: 10px 10px 10px 10px;
+}
+body{
+    background-image: url(Img/75.jpeg);
+}
+#p3{
+    text-align: center;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0% 10% 10px;
+    height: 50px;
+    background-color:skyblue;
+    clear: both;
+}
+#p4{
+    text-align: center;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0% 10% 10px;
+    height: 40px;
+    background-color:skyblue;
+    clear: both;
+}
+
+#piePagina{
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    width: 70%;
+    margin: 27% 10% 10px;
+    height: 50px;
+    background-color:skyblue;
+    clear: both;
+}
+
+#seccion1{
+    float: left;
+    width: 38%;
+    height: 300px;
+    margin: 0 0 0 10%;
+    background-color: whitesmoke;
+    padding: 10px 10px 10px 10px;
+}
+#seccion2{
+    float: left;
+    width: 38%;
+    height: 300px;
+    margin: 0 9% 0 0;
+    background-color: skyblue;
+    padding: 10px 10px 10px 10px;
+}
+
